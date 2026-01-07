@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! I'm Merbak Baketa </h1><i class="fa-solid fa-user"></i>
+<h1 align="center"> Hello! I'm Merbak Baketa 😎 </h1>
 
 <p align="center">
   <a href="#">🛠️ Data Engineer</a>
