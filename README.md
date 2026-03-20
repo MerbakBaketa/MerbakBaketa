@@ -4,6 +4,7 @@
   <a href="#">🛠️ Data Engineer</a>
   <a href="#">👨‍💻 SoftWare Developer</a> •
   <a href="#">💻  Data Infrastructure Engineer</a> •
+  <a href="#"><i class="fas fa-code"></i> SQL Developer</a> •
 </p>
 <h3 align="left">  About Me </h3>
 <p style="
